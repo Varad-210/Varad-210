@@ -10,9 +10,12 @@ Based in Pune, India, I'm currently pursuing my degree in Information Technology
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,mysql,mongodb,js,py,bootstrap&perline=8)](https://skillicons.dev)
 
+
 ## Top Projects
 
-
+- [Restaurant-Billing-System](https://github.com/Varad-210/Restaurant-Billing-System)  
+  A Python-based Restaurant Billing and Order Management System using Tkinter. Features include menu display, table reservation, combo suggestions, bill generation, and PDF receipt saving.  
+  ⭐ Stars: 0 | 🗂 Forks: 0 | 🔧 Language: Python
 
 ## GitHub Stats
 🏆 Public Repositories: 1  
@@ -32,3 +35,6 @@ Visit my blog for insights and articles: [varadpreneur.blogspot.com](http://vara
 ## Connect with Me
 
 <a href="https://youtube.com/@varadpreneur210?si=KKVzevtArpggObuU" target="_blank" rel="noopener noreferrer"><Icon /> Generic</a>
+
+
+
