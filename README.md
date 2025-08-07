@@ -8,7 +8,7 @@ Based in Pune, India, I'm currently pursuing my degree in Information Technology
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,mysql,mongodb,js,py,bootstrap&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,mysql,mongodb,c,linux,instagram,pandasjs,py,bootstrap&perline=8)](https://skillicons.dev)
 
 
 ## Top Projects
